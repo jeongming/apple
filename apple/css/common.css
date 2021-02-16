@@ -1,0 +1,55 @@
+
+@font-face {
+    font-family: 'sf-pro-display_bold'; /* 사용할 폰트 이름 */
+    src: url(../font/sf-pro-display_bold.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'sf-pro-display_heavy'; /* 사용할 폰트 이름 */
+    src: url(../font/sf-pro-display_heavy.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'sf-pro-display_regular'; /* 사용할 폰트 이름 */
+    src: url(../font/sf-pro-display_regular.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'sf-pro-display_semibold'; /* 사용할 폰트 이름 */
+    src: url(../font/sf-pro-display_semibold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'sf-pro-text_bold'; /* 사용할 폰트 이름 */
+    src: url(../font/sf-pro-display_semibold.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'sf-pro-text_heavy'; /* 사용할 폰트 이름 */
+    src: url(../font/sf-pro-display_heavy.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'sf-pro-text_light'; /* 사용할 폰트 이름 */
+    src: url(../font/sf-pro-display_light.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'sf-pro-text_regular'; /* 사용할 폰트 이름 */
+    src: url(../font/sf-pro-display_regular.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'sf-pro-text_semibold'; /* 사용할 폰트 이름 */
+    src: url(../font/sf-pro-display_semibold.woff2) format('woff2');
+}
+
+
+body { font-family: 'sf-pro-display_regular'; }
+
+h3 {  font-size: 56px; font-weight: 700; line-height: 1.5;}
+h4 { font-size: 28px; font-weight: 500; line-height: 2; }
+p {  font-size: 17px;  line-height: 2; }
+
+
+
+/* font color */
+.fc_245 {color: rgb(245, 245, 247);}
+.fc_134 { color: rgb(134, 134, 139); }
+.fc_41 { color: rgb(41, 151, 255); }
+.fc_29 { color: rgb(29, 29, 31); }
+
+/* font size */
